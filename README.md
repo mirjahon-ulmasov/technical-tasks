@@ -1,1 +1,1 @@
-# technical-tasks
+Technical Interview Tasks
